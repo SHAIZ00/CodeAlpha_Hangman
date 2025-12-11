@@ -9,11 +9,11 @@ The game challenges players to guess a hidden word one letter at a time while ke
 
 
 
-#Objective
+**#Objective**
 
 Guess the secret word before your 6 attempts run out.
 
-#How the Game Works
+**#How the Game Works**
 
 A random word is selected from a predefined list.
 
@@ -29,7 +29,7 @@ You guess all letters (Win)
 
 You run out of attempts (Lose)
 
-#Features
+**#Features**
 
 Random word generation
 
@@ -47,7 +47,7 @@ Configurable attempt limit
 
 Simple, clean Python logic — good example for beginners
 
-#Tech Stack
+**#Tech Stack**
 
 Language: Python 3
 
@@ -57,3 +57,40 @@ Libraries used: random (built-in)
 **Clone the repository:**
 click here:-  https://github.com/SHAIZ00
 
+
+
+**Run the game:**
+
+python game.py
+
+Code Structure
+File	Description
+game.py	Contains the full logic of the Hangman game
+
+**Future Improvements (Optional ideas you can add later)**
+
+Add ASCII art for the hangman
+
+Add difficulty levels
+
+Add a scoring system
+
+Add a hint system
+
+Turn it into a GUI game using Tkinter
+
+Add file-based word dictionary
+
+
+
+**Author**
+
+Shaiz
+Computer Science Student | Python Learner
+
+This project is free to use, modify, and improve.
+
+
+I would like to thank You CodeAlpha for providing this opportunity to enhance my Python programming skills through practical tasks.
+
+Thank You
