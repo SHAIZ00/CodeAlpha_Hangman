@@ -1,6 +1,6 @@
 import random
 
-words = ["python", "coding", "apple", "hangman", "simple"]
+words = ["python", "coding", "science", "hangman", "computer"]
 secret_word = random.choice(words)
 
 guessed_letters = []
@@ -46,4 +46,5 @@ while wrong < limit:
         guessed_letters.append(guess)
 
 if wrong == limit:
+
     print("\nYou lost! The word was:",secret_word)
